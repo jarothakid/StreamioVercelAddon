@@ -1,0 +1,8 @@
+{
+  "name": "stremio-addon-vercel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "stremio-addon-sdk": "^7.0.0"
+  }
+}
